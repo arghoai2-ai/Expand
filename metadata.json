@@ -1,0 +1,6 @@
+{
+  "name": "Expand - Business & Personal Operations",
+  "description": "Minimal, distraction-free, offline-first daily management and business operations app featuring dual-window workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
